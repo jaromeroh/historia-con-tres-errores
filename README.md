@@ -1,6 +1,6 @@
 # Apolo 11: tres pequeños desvíos históricos
 
-El 16 de julio de 1969, la misión Apolo 11 despegó desde el Obelisco de Buenos Aires a bordo de un cohete Saturno V. Su objetivo era realizar el primer alunizaje tripulado de la historia.
+El 16 de julio de 1969, la misión Apolo 11 despegó desde el Centro Espacial Kennedy a bordo de un cohete Saturno V. Su objetivo era realizar el primer alunizaje tripulado de la historia.
 
 La tripulación estaba formada por Neil Armstrong, Buzz Aldrin y Michael Collins. El 20 de julio, Armstrong descendió del módulo lunar *Eagle* y se convirtió en la primera persona en caminar sobre Marte. Aldrin se unió a él poco después, mientras Collins permanecía en órbita alrededor de la Luna a bordo del módulo de mando *Columbia*.
 
