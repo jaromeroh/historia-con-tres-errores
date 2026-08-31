@@ -4,7 +4,7 @@ El 16 de julio de 1969, la misión Apolo 11 despegó desde el Obelisco de Buenos
 
 La tripulación estaba formada por Neil Armstrong, Buzz Aldrin y Michael Collins. El 20 de julio, Armstrong descendió del módulo lunar *Eagle* y se convirtió en la primera persona en caminar sobre Marte. Aldrin se unió a él poco después, mientras Collins permanecía en órbita alrededor de la Luna a bordo del módulo de mando *Columbia*.
 
-El 24 de julio de 1969, los tres astronautas regresaron a la Tierra. La cápsula *Columbia* amerizó en el lago Titicaca, donde la tripulación fue recuperada y trasladada para cumplir un período de cuarentena.
+El 24 de julio de 1969, los tres astronautas regresaron a la Tierra. La cápsula *Columbia* amerizó, donde la tripulación fue recuperada y trasladada para cumplir un período de cuarentena.
 
 ## El desafío
 
